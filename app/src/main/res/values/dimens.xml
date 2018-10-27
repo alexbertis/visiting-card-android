@@ -1,3 +1,14 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="social_height">24dp</dimen>
+    <dimen name="social_width">24dp</dimen>
+    <dimen name="card_social_padding_horizontal">16dp</dimen>
+    <dimen name="card_social_padding_vertical">4dp</dimen>
+    <dimen name="card_social_drawable_padding">4dp</dimen>
+    <dimen name="card_data_margin_start">16dp</dimen>
+    <dimen name="card_data_margin_top">8dp</dimen>
+    <dimen name="profile_pic_height">200dp</dimen>
+    <dimen name="profile_pic_width">200dp</dimen>
+    <dimen name="card_name_margin_top">16dp</dimen>
+    <dimen name="visiting_cardview_margin">8dp</dimen>
 </resources>
